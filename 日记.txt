@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 4.8
-4.9
-4.10
-pear bad
-=======
-4.8
->>>>>>> parent of af960e8... second
+
